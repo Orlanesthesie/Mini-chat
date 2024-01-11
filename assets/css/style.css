@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
+
+footer .container {
+    background-color: rgba(0, 0, 0, 0.05)
+}
+
+.container {
+    background-color: #ffc7c2;
+    border-block-width: 5px 10px;
+}
+
+body {
+    background-image: url('https://img.freepik.com/premium-vector/cute-cat-paws-footprint-seamless-pattern-background_42349-730.jpg?w=826');
+    /* color: white; */
+}
+
+.orange {
+    background-color: #ffb776;
+}
+
+h1, .bg-user, .pseudo {
+    font-family: 'Lemon', serif;
+    /* color: lightsalmon; */
+    background-color: #ffc7c2;
+}
+
+#scroll {
+    max-height: 650px;  /* Définissez la hauteur maximale souhaitée */
+    overflow-y: scroll;   /* Ajoutez une barre de défilement vertical si nécessaire */
+    border: 1px solid #ccc;  /* Facultatif : Ajoutez une bordure pour mieux visualiser la div */
+    padding: 10px;   /* Facultatif : Ajoutez un peu de rembourrage pour un meilleur aspect */
+    margin-bottom: 8px;
+    margin-right: 8px;
+}
+
+.input{
+    width: 20rem;
+}
+
+.bg-msg {
+    background-color:#ffb776;
+}
+
+.form{
+    margin-left: 8px;
+}
+
+h1 {
+    color: white;
+}
